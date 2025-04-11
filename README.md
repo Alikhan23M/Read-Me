@@ -2,7 +2,7 @@
 
 <!-- Hero Section -->
 # 👨💻 Ali Khan 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%">
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="50%">
   
 ### Full Stack Developer | Computer Software Engineering Student
 
