@@ -71,6 +71,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AliKhan-Devs&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKhan-Devs&theme=dark&layout=compact)
 
+![](https://github-profile-trophy.vercel.app/?username=AliKhan-Devs&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
 
