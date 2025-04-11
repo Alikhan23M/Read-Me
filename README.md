@@ -67,11 +67,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AliKhan-Devs&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AliKhan-Devs&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKhan-Devs&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AliKhan23M&theme=dark&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliKhan23M&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKhan23M&theme=dark&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=AliKhan-Devs&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AliKhan23M&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
 
